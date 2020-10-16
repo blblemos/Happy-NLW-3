@@ -1,28 +1,24 @@
 {
   "files": {
-    "main.css": "/Happy-NLW-3/static/css/main.29756879.chunk.css",
-    "main.js": "/Happy-NLW-3/static/js/main.dd18c283.chunk.js",
-    "main.js.map": "/Happy-NLW-3/static/js/main.dd18c283.chunk.js.map",
+    "main.css": "/Happy-NLW-3/static/css/main.62ae3428.chunk.css",
+    "main.js": "/Happy-NLW-3/static/js/main.15b3e886.chunk.js",
+    "main.js.map": "/Happy-NLW-3/static/js/main.15b3e886.chunk.js.map",
     "runtime-main.js": "/Happy-NLW-3/static/js/runtime-main.902f7b64.js",
     "runtime-main.js.map": "/Happy-NLW-3/static/js/runtime-main.902f7b64.js.map",
-    "static/css/2.00555af4.chunk.css": "/Happy-NLW-3/static/css/2.00555af4.chunk.css",
-    "static/js/2.d2cbf74a.chunk.js": "/Happy-NLW-3/static/js/2.d2cbf74a.chunk.js",
-    "static/js/2.d2cbf74a.chunk.js.map": "/Happy-NLW-3/static/js/2.d2cbf74a.chunk.js.map",
+    "static/js/2.49840968.chunk.js": "/Happy-NLW-3/static/js/2.49840968.chunk.js",
+    "static/js/2.49840968.chunk.js.map": "/Happy-NLW-3/static/js/2.49840968.chunk.js.map",
     "index.html": "/Happy-NLW-3/index.html",
-    "precache-manifest.b3cd05511ec4711b669444669957732b.js": "/Happy-NLW-3/precache-manifest.b3cd05511ec4711b669444669957732b.js",
+    "precache-manifest.8ba4090c24f6145f4c90bd83708d1cfc.js": "/Happy-NLW-3/precache-manifest.8ba4090c24f6145f4c90bd83708d1cfc.js",
     "service-worker.js": "/Happy-NLW-3/service-worker.js",
-    "static/css/2.00555af4.chunk.css.map": "/Happy-NLW-3/static/css/2.00555af4.chunk.css.map",
-    "static/css/main.29756879.chunk.css.map": "/Happy-NLW-3/static/css/main.29756879.chunk.css.map",
-    "static/js/2.d2cbf74a.chunk.js.LICENSE.txt": "/Happy-NLW-3/static/js/2.d2cbf74a.chunk.js.LICENSE.txt",
+    "static/css/main.62ae3428.chunk.css.map": "/Happy-NLW-3/static/css/main.62ae3428.chunk.css.map",
+    "static/js/2.49840968.chunk.js.LICENSE.txt": "/Happy-NLW-3/static/js/2.49840968.chunk.js.LICENSE.txt",
     "static/media/landing.css": "/Happy-NLW-3/static/media/landing.91c8d1af.svg",
-    "static/media/logo.svg": "/Happy-NLW-3/static/media/logo.1653c647.svg",
-    "static/media/map-marker.svg": "/Happy-NLW-3/static/media/map-marker.658b8302.svg"
+    "static/media/logo.svg": "/Happy-NLW-3/static/media/logo.1653c647.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.902f7b64.js",
-    "static/css/2.00555af4.chunk.css",
-    "static/js/2.d2cbf74a.chunk.js",
-    "static/css/main.29756879.chunk.css",
-    "static/js/main.dd18c283.chunk.js"
+    "static/js/2.49840968.chunk.js",
+    "static/css/main.62ae3428.chunk.css",
+    "static/js/main.15b3e886.chunk.js"
   ]
 }
