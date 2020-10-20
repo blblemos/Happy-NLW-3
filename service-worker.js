@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Happy-NLW-3/precache-manifest.3e43f8391658425b4a48f75a9016f871.js"
+  "/Happy-NLW-3/precache-manifest.b58be70a31b5ed4a6f882cc638b1390a.js"
 );
 
 self.addEventListener('message', (event) => {
